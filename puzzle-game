@@ -1,0 +1,11 @@
+# from previous instructions you already have folder & node installed
+# create files
+mkdir -p js assets
+# create index.html and js/game.js (paste contents below)
+# optionally place sound files in assets/ like explosion.mp3 and music.mp3
+
+# Run a simple static server:
+npx http-server .
+
+# Open on your phone's browser:
+http://localhost:8080
